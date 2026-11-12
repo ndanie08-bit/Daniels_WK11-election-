@@ -1,0 +1,58 @@
+---
+title: " WK 11 Maps and Election"
+author: Natalie Daniels
+format: typst
+---
+
+## 1a
+
+![2024 Election Winner by State](plot1.pdf){fig-align="center" width="70%"}
+
+## 1b
+
+![2024 Election Winner by County](1b-county.pdf){fig-align="center" width="70%"}
+
+## 1c
+
+![Population Density by County](1c.pdf){fig-align="center" width="70%"}
+
+## 1d
+
+![% Black by County](1d.pdf){fig-align="center" width="70%"}
+
+## 2a
+
+![2026 Senate Winner](2a.pdf){fig-align="center" width="70%"}
+
+## 2b
+
+![2026 Governer Winner](2b.pdf){fig-align="center" width="70%"}
+
+## 3a
+
+![2026 Senate](3a.pdf){fig-align="center" width="70%"}
+
+## 3b
+
+![2026 Governer](3b.pdf){fig-align="center" width="70%"}
+
+## 4
+
+![Syracuse Location](STAR.pdf){fig-align="center" width="70%"}
+
+## 5a
+
+![NH 48 4000 footers](nhmountains.pdf){fig-align="center" width="70%"}
+
+## 5b
+
+![NH peak independence](NHpeakindependence.pdf){fig-align="center" width="70%"}
+
+## Write-Up
+As per usual, the hardest part of the assignment was unpacking the data and understanding how I needed to manipulate it to get what I needed. I often got a blank map at first for one reason or another. 
+
+For number five, I really enjoyed picking my own topic and trying to figure out how to get the data and make it usable. I wanted to plot all 48 4000 foot mountains in NH where I a from! So, I show the varying elevation of the mountains in a and the separation from one another in b. Prominence refers to how many feet you would have to walk downhill before you climb to another peak. The AMC requires at least 200ft for a mountain to be considered independent. I went for a partial state map instead of the larger us map so you could see the individual points. I think I could make these WAY better by adding names and towns but its a good start.This was my dataset..https://www.peakbagger.com/list.aspx?lid=21404
+
+In order to use that data, I had to make my own list from the information on that website. Then I jsut needed to narrow down the map to just the US and plot the points on the map. 
+
+
